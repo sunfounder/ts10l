@@ -39,7 +39,7 @@ Lay out the drawing board, add Pen expansion function
 First, we delete the previous sprite, and then add the Pencil sprite and Block-X sprite to Scratch.
 
 Upload **Eraser.svg, Red.png, Blue.png, Green.png, Yellow.png** and other files in the Sprite list (You have downloaded from `github - 
-ts10-pro <https://github.com/sunfounder/ts10-pro>`_ before.), and finally set the size of the Pencil sprite and Block-X sprite Change to 50.
+ts10l <https://github.com/sunfounder/ts10l>`_ before.), and finally set the size of the Pencil sprite and Block-X sprite Change to 50.
 
 .. image:: img/paint_box1.png
   :width: 600

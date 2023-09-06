@@ -1,5 +1,5 @@
 
-TS-10 Pro 10.1" Touch Screen
+TS-10 L 10.1" Touch Screen
 ===============================
 
 **Introduction**
@@ -8,9 +8,9 @@ TS-10 Pro 10.1" Touch Screen
     :width: 500
     :align: center
 
-The SunFounder TS-10 Pro is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. 
+The SunFounder TS-10 L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. 
 
-It is 10-point capacitive touch with a resolution of 1280x800, bringing you perfect visual experience. 
+It is 10-point capacitive touch with a resolution of 1024x576, bringing you perfect visual experience. 
 
 It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). 
 
@@ -18,7 +18,7 @@ With 2 stereo speakers, you can play music or watch videos. It also has a metal 
 
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
-Here is the Email: cs@sunfounder.com.
+Here is the Email: service@sunfounder.com
 
 
 **About the display language**

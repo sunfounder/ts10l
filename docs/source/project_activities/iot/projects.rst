@@ -13,7 +13,7 @@ Open a Terminal and enter the following command to download them from github.
 
 .. code-block:: shell
 
-    git clone https://github.com/sunfounder/ts10-pro
+    git clone https://github.com/sunfounder/ts10l
 
 Then copy the codes from the ``iot`` folder to the ``cloud4rpi-raspberrypi-python`` folder.
 
@@ -23,7 +23,7 @@ Then copy the codes from the ``iot`` folder to the ``cloud4rpi-raspberrypi-pytho
 
 .. code-block:: shell
 
-    cp -r /home/pi/ts10-pro/iot/* /home/pi/cloud4rpi-raspberrypi-python
+    cp -r /home/pi/ts10l/iot/* /home/pi/cloud4rpi-raspberrypi-python
 
 
 .. toctree::

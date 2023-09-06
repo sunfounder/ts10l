@@ -12,7 +12,7 @@ Quick Links:
 
 <a id="about_this_kit"></a>
 ## About this kit:
-The SunFounder TS-10L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. It is 10-point capacitive touch with a resolution of 1280x800, bringing you perfect visual experience. It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
+The SunFounder TS-10L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. It is 10-point capacitive touch with a resolution of 1024x576, bringing you perfect visual experience. It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
 
 <a id="trouble"></a>
 ## Trouble Shootings:
@@ -36,9 +36,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-ts10-pro comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
+ts10l comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
 
-SunFounder, Inc., hereby disclaims all copyright interest in the program 'ts10-pro' (which makes passes at compilers).
+SunFounder, Inc., hereby disclaims all copyright interest in the program 'ts10l' (which makes passes at compilers).
 
 Mike Huang, 21 August 2015
 

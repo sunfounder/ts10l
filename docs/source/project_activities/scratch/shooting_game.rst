@@ -38,7 +38,7 @@ Lesson Guide
 Arrange the Crosshair and targets.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-First, delete the previous sprite, upload the Crosshair sprite and the target background, you can find them under the path ``ts10-pro/scratch/materials`` (You have downloaded from `github - ts10-pro <https://github.com/sunfounder/ts10-pro>`_ before.).
+First, delete the previous sprite, upload the Crosshair sprite and the target background, you can find them under the path ``ts10l/scratch/materials`` (You have downloaded from `github - ts10l <https://github.com/sunfounder/ts10l>`_ before.).
 
 Click the icon below the sprite list, select "Upload Sprite Option", find the **Cross Hair.svg** file, and upload it. Similarly, upload the backdrop, **Target.jpg**.
 
