@@ -46,7 +46,7 @@ The steps are as follows.
 .. toctree::
     :maxdepth: 2
     
-    About This Kit <self>
+    ABOUT THIS KIT <self>
     hardware_introduction
     list
     assembly_instructions
