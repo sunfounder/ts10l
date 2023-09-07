@@ -1,5 +1,5 @@
-# TS-10L 10.1'' Touch Screen
-This repository is for TS-10L 10.1'' Touch Screen. you can buy it on [our website](https://www.sunfounder.com/), or search sunfounder in Amazon.
+# TS-10 L 10.1" Touch Screen
+This repository is for TS-10 L 10.1" Touch Screen. you can buy it on [our website](https://www.sunfounder.com/), or search sunfounder in Amazon.
 
 Quick Links:
 
@@ -12,7 +12,7 @@ Quick Links:
 
 <a id="about_this_kit"></a>
 ## About this kit:
-The SunFounder TS-10L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. It is 10-point capacitive touch with a resolution of 1280x800, bringing you perfect visual experience. It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
+The SunFounder TS-10 L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. It is 10-point capacitive touch with a resolution of 1024x576, bringing you perfect visual experience. It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
 
 <a id="trouble"></a>
 ## Trouble Shootings:
@@ -20,7 +20,7 @@ The SunFounder TS-10L is a 10.1" touch screen designed for the Raspberry Pi and 
 
 <a id="update"></a>
 
-2023-09-06:
+2023-09-07:
  - New Release
 
 <a id="about_sunfounder"></a>
@@ -29,16 +29,16 @@ SunFounder is a company focused on STEAM education with products like open sourc
 
 <a id="license"></a>
 ## License
-This is the code for SunFounder TS-10L 10.1'' Touch Screen.
+This is the code for SunFounder TS-10 L 10.1" Touch Screen.
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied wa rranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-ts10-pro comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
+ts10l comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
 
-SunFounder, Inc., hereby disclaims all copyright interest in the program 'ts10-pro' (which makes passes at compilers).
+SunFounder, Inc., hereby disclaims all copyright interest in the program 'ts10l' (which makes passes at compilers).
 
 Mike Huang, 21 August 2015
 
