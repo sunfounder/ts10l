@@ -14,7 +14,7 @@ It is 10-point capacitive touch with a resolution of 1024x576, bringing you perf
 
 It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). 
 
-With 2 stereo speakers, you can play music or watch videos. It also has a metal stand for standing on your desktop for entertainment or work.
+With 2 stereo speakers, you can play music or watch videos. It also has an acrylic stand for standing on your desktop for entertainment or work.
 
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
