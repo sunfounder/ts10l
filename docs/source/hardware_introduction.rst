@@ -3,12 +3,12 @@ HARDWARE DESCRIPTION
 
 **Features**
 
-* Resolution: 1280x800
+* Resolution: 1024x576
 * Plug & Play
 * 10-point Touch Capacitive Screen
 * Power Input: DC 12V/1.5A
 * Power Output: USB Type A 5V/3A
-* Aspect Ratio：8:05
+* Aspect Ratio: 16:9
 * Consumption: 7W
 * LCD Type: IPS
 * Speaker: 8Ω/2W
@@ -34,7 +34,7 @@ Here are the definitions of the pins:
 * Pin 1: VDD(5V)
 * Pin 2: D-
 * Pin 3: D+
-* Pin 4：GND
+* Pin 4: GND
 
 
 

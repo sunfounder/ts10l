@@ -44,7 +44,7 @@ ASSEMBLY INSTRUCTIONS
 
     .. image:: img/IMG_9819.jpg
 
-#. Plug in the 12V/.5A power adapter. 
+#. Plug in the 12V/1.5A power adapter. 
 
     .. image:: img/IMG_9822.jpg
 

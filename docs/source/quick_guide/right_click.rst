@@ -1,4 +1,4 @@
-Right Click on RasPad
+Right Click on TS-10L
 ===============================
 
 The touchscreen makes it easy to perform simple navigation tasks with your finger or stylus, but you may want to be able to use the context menu (right-click menu).
