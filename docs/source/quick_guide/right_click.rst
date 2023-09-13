@@ -31,7 +31,7 @@ Then you will need to download a ``Touchégg`` app. Enter the following command 
 
 
 
-After restarting, you can double-tap the screen to bring up the context menu.
+After restarting, you can use two fingers to tap the screen to bring up the context menu.
 
 .. raw:: html
 
