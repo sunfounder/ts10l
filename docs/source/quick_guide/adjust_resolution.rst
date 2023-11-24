@@ -4,7 +4,8 @@ Adjust the Resolution
 For the Raspberry Pi 3 and the lower versions, you need reset the resolution ratio as  follows. As for Raspberry Pi 4, when you start up it, the resolution is optimum. If you want to change its resolution, please refer to the next part.  
 
 
-**For Raspberry Pi 3 or Lower Version**
+For Raspberry Pi 3 or Lower Version
+-------------------------------------
 
 **Step 1: Open config.txt.**
 
@@ -69,16 +70,17 @@ Reboot the Raspberry pi with the command sudo reboot. 
 
 	sudo reboot
 	
-**For Raspberry Pi 4**
+For Raspberry Pi 4
+------------------------
 
-1) Click the **Raspberry Pi icon** -> **Preferences** -> **Screen Configuration**.
+#. Click the **Raspberry Pi icon** -> **Preferences** -> **Screen Configuration**.
 
-.. image:: img/image11.png
+	.. image:: img/image11.png
 
-2) Then choose **Configure** -> **Screens** -> **HDMI-1** -> **Resolution** -> **choose the resolution that you want**.
+#. Then choose **Configure** -> **Screens** -> **HDMI-1** -> **Resolution** -> **choose the resolution that you want**.
 
-.. image:: img/image12.png
+	.. image:: img/image12.png
 
-3) After that you need to click the **tick icon** to save your configure.
+#. After that you need to click the **tick icon** to save your configure.
 
-.. image:: img/image13.png
+	.. image:: img/image13.png

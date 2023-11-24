@@ -9,17 +9,19 @@ ASSEMBLY INSTRUCTIONS
 
     .. image:: img/IMG_9809.jpg
 
-#. There are a vertical slot and a horizontal one on the back of the screen, so you can mount boards with different sizes by moving the standoff with the small wrench.
-
-    .. image:: img/IMG_9810.jpg
-
-#. Slide this standoff to get it to the position that secures your Control Board.
-    
-    .. image:: img/IMG_9811.jpg
-
 #. If you want to use a Raspberry Pi with the screen, then you don't need to adjust the standoffs since they are preset for it. Just place the Raspberry Pi on the plate and fasten them with M2.5*4 Screws. 
     
     .. image:: img/IMG_9812.jpg
+
+    **Compatible (optional)** 
+
+    #. There are a vertical slot and a horizontal one on the back of the screen, so you can mount boards with different sizes by moving the standoff with the small wrench.
+
+        .. image:: img/IMG_9810.jpg
+
+    #. Slide this standoff to get it to the position that secures your Control Board.
+        
+        .. image:: img/IMG_9811.jpg
 
 #. Connect the HDMI port of the Raspberry Pi and the screen via an HDMI cable.
     

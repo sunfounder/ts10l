@@ -5,7 +5,7 @@ HARDWARE DESCRIPTION
 
 * Resolution: 1024x576
 * Plug & Play
-* 10-point Touch Capacitive Screen
+* 5-point Touch Capacitive Screen
 * Power Input: DC 12V/1.5A
 * Power Output: USB Type A 5V/3A
 * Aspect Ratio: 16:9
