@@ -8,13 +8,8 @@ TS-10 L 10.1" Touch Screen
     :width: 500
     :align: center
 
-The SunFounder TS-10 L is a 10.1" touch screen designed for the Raspberry Pi and is compatible with most single board computers on the market. 
+The SunFounder TS-10 L is a 10.1-inch touch screen designed for Raspberry Pi and compatible with most single-board computers. It offers 5-point capacitive touch with a 1024x576 resolution for a superb visual experience. This versatile screen supports various operating systems including Raspberry Pi OS, Ubuntu, Windows, Android, and Chrome OS. It features 2 stereo speakers and comes with an acrylic stand for desktop use. Ideal for applications like retro gaming, industrial control, as a secondary monitor, in home automation, for 3D printing control, and as a |link_pc_monitor|.
 
-It is 5-point capacitive touch with a resolution of 1024x576, bringing you perfect visual experience. 
-
-It works with various operating systems including Raspberry Pi OS, Ubuntu, Ubuntu Mate, Windows, Android, and Chrome OS (you may need an USB extension cable). 
-
-With 2 stereo speakers, you can play music or watch videos. It also has an acrylic stand for standing on your desktop for entertainment or work.
 
 If you encounter problems in using the process, or any suggestions, please feel free to send Email and we will reply as soon as possible.
 
