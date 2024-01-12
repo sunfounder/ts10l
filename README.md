@@ -19,6 +19,8 @@ The SunFounder TS-10L is a 10.1" touch screen designed for the Raspberry Pi and 
 
 
 <a id="update"></a>
+2024-01-12:
+- Update the packing list
 
 2023-11-24:
 - Modify the installation system prompt.

@@ -1,24 +1,37 @@
 .. _install_rpi_os:
 
-Install the Raspberry Pi OS
+INSTALL THE RASPBERRY PI OS
 ======================================
+**Required Components**
 
-An operating system needs to be installed onto the Micro SD card before inserting it into the Raspberry Pi.
+* Raspberry Pi 4B/Zero 2 w/3B 3B+/2B/Zero W
+* 1 x Personal Computer
+* 1 x Micro SD card 
 
-#. Browse to the Raspberry Pi Imager site and download the version that matches the computer or laptop's operating system (www.raspberrypi.org/software). When the download is complete, launch the installer program and follow the prompts to install the Raspberry Pi Imager.
-
-    .. image:: img/3d1.png
-      :align: center
-
-#. If the Windows operating system prevents the application from launching, click on **More info** and then click on **Run anyway** to install the Raspberry Pi Imager.
-
-    .. image:: img/3d2.png
-      :align: center
-
-#. Insert the Micro SD card into the computer or laptop's SD card slot. If the computer or laptop only has a full-size port for SD cards, use a Micro SD card adapter.
+**Steps**
 
 
-#. In the Raspberry Pi Imager, click **CHOOSE OS** -> **Raspberry Pi OS(Legacy)**.
+#. Go to the Raspberry Pi software download page: `Raspberry Pi Imager <https://www.raspberrypi.org/software/>`_. Select the Imager version for your operating system. After downloading, open the file to start the installation.
+
+    .. image:: img/os_install_imager.png
+
+
+#. Upon launching the installer, your OS might display a security warning. For instance, Windows may show a caution message. If this occurs, select **More info** and then **Run anyway**. Follow the on-screen instructions to install the Raspberry Pi Imager.
+
+    .. image:: img/os_info.png
+
+
+#. Insert your SD card into the computer or laptop SD card slot.
+
+#. Open the Raspberry Pi Imager application either by clicking its icon or executing ``rpi-imager`` in your terminal.
+
+    .. image:: img/os_open_imager.png
+
+#. Click **CHOOSE DEVICE** and select your specific Raspberry Pi model from the list (Note: Raspberry Pi 5 is not applicable).
+
+    .. image:: img/os_choose_device.png
+
+#. Select **CHOOSE OS** and then choose **Raspberry Pi OS (Legacy)**.
 
     .. warning::
 
@@ -26,51 +39,59 @@ An operating system needs to be installed onto the Micro SD card before insertin
       * You need to install the **Raspberry Pi OS (Legacy)** version - **Debian Bullseye**.
       * Additionally, for a perfect touch experience, it is recommended to install the **Ubuntu** system.
 
-    .. image:: img/3d33.png
-        :align: center
+    .. image:: img/os_choose_os.png
 
 
-#. Select the SD card you are using.
-
-    .. image:: img/3d4.png
-      :width: 550
-      :align: center
-
-#. To open the advanced options page, click the **setting** button (appears after selecting operating system) or press **Ctrl+Shift+X**. Now, set hostname, enable ssh and set the username and password.
-
-    .. warning::
-
-        Make sure to note down the ``hostname``, ``username``, and ``password``; they're crucial for later remote access to the Raspberry Pi.
-
-    .. image:: img/image15.png
-        :align: center
-
-#. Then scroll down to complete the wifi configuration and click **SAVE**.
+#. Click **Choose Storage** and pick the correct storage device for the installation.
 
     .. note::
 
-        **wifi country** should be set the two-letter `ISO/IEC alpha2 code <https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements>`_ for the country in which you are using your Raspberry Pi, please refer to the following link: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements
+        Be sure to select the correct device, especially if multiple storage devices are connected. Disconnect others if you're unsure.
 
-    .. image:: img/image16.png
+    .. image:: img/os_choose_sd.png
+
+#. Press **NEXT** and select **EDIT SETTINGS** to customize your OS settings.
+
+    .. image:: img/os_enter_setting.png
+
+#. Set your Raspberry Pi's **hostname**.
+
+    .. note::
+
+        The hostname is what your Raspberry Pi uses to identify itself on the network. You can connect to your Pi using `<hostname>.local` or `<hostname>.lan`.
+
+    .. image:: img/os_set_hostname.png
+
+#. Create a **Username** and **Password** for the Raspberry Pi's administrator account.
+
+    .. note::
+
+        Setting a unique username and password is crucial for security, as the Raspberry Pi does not have a default password.
+
+    .. image:: img/os_set_username.png
+
+#. Set up wireless LAN by inputting your network's **SSID** and **Password**.
+
+    .. note::
+
+        ``Wireless LAN country`` should be set the two-letter `ISO/IEC alpha2 code <https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements>`_ for the country in which you are using your Raspberry Pi.
+
+    .. image:: img/os_set_wifi.png
+
+
+#. Click **SERVICES** and enable **SSH** for password-based remote access. Remember to click **Save**.
+
+    .. image:: img/os_enable_ssh.png
+
+#. Confirm your choices by clicking **Yes**.
+
+    .. image:: img/os_click_yes.png
+
+#. If your SD card has existing files, back them up to avoid data loss. Click **Yes** to proceed if no backup is necessary.
+
+    .. image:: img/os_continue.png
+
+#. Wait as the OS is written to the SD card. Once completed, a confirmation window will appear.
+
+    .. image:: img/os_finish.png
         :align: center
-
-
-#. Click the **WRITE** button.
-
-    .. image:: img/3d7.png
-      :width: 550
-      :align: center
-
-#. The Imager will overwrite any files already on the SD card. If the SD card has any files, back up these files before clicking Yes.
-
-    .. image:: img/3d8.png
-      :width: 550
-      :align: center
-
-#. After the Imager completes installing the Operating System on the SD card, click Continue to complete the installation.
-
-    .. image:: img/3d9.png
-      :width: 550
-      :align: center
-
-#. Now insert the Micro SD card with the system installed into the Raspberry Pi.

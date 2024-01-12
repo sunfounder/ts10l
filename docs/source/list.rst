@@ -7,19 +7,15 @@ PACKAGE LIST
 * USB Touch Screen Cable x 1 
 * USB-C Cable for Pi4 x 1 
 * Micro USB Cable for Pi3 x 1
-* Wrenches x 1
-* Tape x 4 
-* EVA Pad x 4
+* Wrench x 1
+* Tape x 4
+* EVA Pad x 4 
 * Screwdriver x 1
 * Acrylic Support x 2
-* M2.5*4 Screw x 5
-* M2.5*8 Screw x 6
+* M2.5*4 x 5
+* M2.5*8 x 6
 * 12V Power Adapter x 1 
-* Dual Speaker x 1
+* Stereo Speaker x 1
 
-.. image:: img/list.jpg
+.. image:: img/ts10l_list.png
     :width: 800
-
-
-
-.. re-shot pic required
