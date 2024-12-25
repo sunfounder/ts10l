@@ -65,7 +65,7 @@ ASSEMBLY INSTRUCTIONS
     .. image:: img/IMG_9822.jpg
 
     .. note::
-        Before plugging in the power cable, you need to :ref:`install_rpi_os` to the Micro SD card, then insert the Micro SD card into the Raspberry Pi and finally plug in the power cable.
+        Before plugging in the power cable, you need to :ref:`install_os` to the Micro SD card, then insert the Micro SD card into the Raspberry Pi and finally plug in the power cable.
 
 #. Now you will be able to see the Raspberry Pi boot screen.
 

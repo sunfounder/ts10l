@@ -60,8 +60,9 @@ The steps are as follows.
     ABOUT THIS KIT <self>
     hardware_introduction
     list
+    install_the_os
     assembly_instructions
-    quick_guide/quick_user_guide
+    resolution_orientation
     compatible_sbc
     project_activities/projects_and_activities
     appendix/appendix
