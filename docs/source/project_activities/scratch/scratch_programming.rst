@@ -35,7 +35,7 @@ If you download a system with only a desktop, you can click **Preferences** -> *
 
     .. code-block::
 
-        git clone https://github.com/sunfounder/ts10l
+        git clone https://github.com/sunfounder/ts10l --depth 1
 
 **Projects**
 
